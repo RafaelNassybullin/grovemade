@@ -1,3 +1,3 @@
 module.exports = {
-    publicPath: 'grovemade'
+    publicPath: '/grovemade/'
 }
