@@ -4,7 +4,6 @@
       <li>shop</li>
       <li>explore</li>
     </ul>
-
     <div class="logo">
       <img src="../assets/logo.svg" alt="">
     </div>
