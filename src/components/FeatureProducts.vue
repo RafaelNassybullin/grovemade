@@ -71,6 +71,7 @@ export default {
   },
   destroy() {
 
+
     window.removeEventListener('resize', this.resized)
   },
 
