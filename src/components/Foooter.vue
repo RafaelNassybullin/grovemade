@@ -6,6 +6,7 @@
       <div class="footer-items">
         <ul class="list">
           <li>Shop</li>
+
           <li>About</li>
           <li>Journal</li>
           <li>Support</li>
