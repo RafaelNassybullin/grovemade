@@ -8,6 +8,9 @@
     <div class="wrapp">
       <largeCards></largeCards>
     </div>
+
+
+
   </section>
 </template>
 
@@ -28,11 +31,18 @@ export default {
     width: 100%;
     background: white;
     padding: 5.556vw 0;
+    @media(max-width: 433px){
+      padding: 23.556vw 0;
+    }
     .wrapp{
       display:flex;
       align-items:center;
       justify-content:center;
       margin-top: 5.556vw;
+      @media(max-width: 433px){
+        margin-top: 16.556vw;
+        flex-direction: column;
+      }
     }
   }
 </style>
