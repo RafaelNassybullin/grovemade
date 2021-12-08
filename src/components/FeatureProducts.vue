@@ -66,6 +66,7 @@ export default {
       screenSize:window.innerWidth
     }
   },
+
   mounted() {
     window.addEventListener('resize', this.resized)
   },
