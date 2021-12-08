@@ -70,6 +70,7 @@ export default {
     window.addEventListener('resize', this.resized)
   },
   destroy() {
+
     window.removeEventListener('resize', this.resized)
   },
 
